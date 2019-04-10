@@ -4,7 +4,7 @@ LIRI Bot is here to assist you in your music, movie and band needs!
 
 Using the command 'Node LIRIBot.js' followed by one of three commands (explained below), LIRI will return to you the information you seek!
 ## Search for a bands concert locations
-![Concert Lookup](/images/concertThis.PNG)
+![Concert Lookup](/images/concertThisFix.PNG)
 
 Simply type in the command 'concert-this' followed by the band you want to look up, and LIRI will return a list of concerts and their information relating to the band you supplied!
 ## Search for songs on Spotify
