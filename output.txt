@@ -1,0 +1,195 @@
+Command: movie-this,The Departed
+""""""""""""""""""""""""""""""""""""""""
+Movie Title: The Departed
+Release Year: 2006
+Movie Rating: 8.5
+Rotten Tomatoes Rating: 91%
+Produced in: USA, Hong Kong
+Language(s): English, Cantonese
+Movie Plot: An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+Actors: Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Command: spotify-this-song, enter sandman
+""""""""""""""""""""""""""""""""""""""""
+Artist(s):  Metallica
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=12e3018fd12f49aeae52f5267878f9af
+Song Album: Metallica
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Masquerade
+Venue location: Atlanta
+Event date: 05/02/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Command: concert-this, incubus
+""""""""""""""""""""""""""""""""""""""""
+Venue: IP Casino Resort Spa
+Venue location: Biloxi
+Event date: 05/04/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Welcome To Rockville
+Venue location: Jacksonville
+Event date: 05/05/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Clayton's Beach Bar
+Venue location: South Padre Island
+Event date: 05/25/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Peoria Riverfront
+Venue location: Peoria
+Event date: 06/01/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Laketown Shakedown Festival
+Venue location: Lake Cowichan
+Event date: 06/29/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Bluestem Amphitheater
+Venue location: Moorhead
+Event date: 08/03/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Canalside
+Venue location: Buffalo
+Event date: 08/06/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Armory - X Games
+Venue location: Minneapolis
+Event date: 08/04/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Ohana Music Festival
+Venue location: Dana Point
+Event date: 09/28/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Shaky Knees Festival
+Venue location: Atlanta
+Event date: 05/03/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Musikfest
+Venue location: Bethlehem
+Event date: 08/07/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Command: concert-this, incubus
+""""""""""""""""""""""""""""""""""""""""
+Venue: Masquerade
+Venue location: Atlanta
+Event date: 05/02/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Shaky Knees Festival
+Venue location: Atlanta
+Event date: 05/03/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Welcome To Rockville
+Venue location: Jacksonville
+Event date: 05/05/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Clayton's Beach Bar
+Venue location: South Padre Island
+Event date: 05/25/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Laketown Shakedown Festival
+Venue location: Lake Cowichan
+Event date: 06/29/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Peoria Riverfront
+Venue location: Peoria
+Event date: 06/01/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Armory - X Games
+Venue location: Minneapolis
+Event date: 08/04/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Canalside
+Venue location: Buffalo
+Event date: 08/06/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: IP Casino Resort Spa
+Venue location: Biloxi
+Event date: 05/04/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Ohana Music Festival
+Venue location: Dana Point
+Event date: 09/28/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Musikfest
+Venue location: Bethlehem
+Event date: 08/07/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Venue: Bluestem Amphitheater
+Venue location: Moorhead
+Event date: 08/03/2019
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Command: spotify-this-song, enter sandman
+""""""""""""""""""""""""""""""""""""""""
+Artist(s):  Metallica
+Song Name: Enter Sandman
+Preview Link: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=12e3018fd12f49aeae52f5267878f9af
+Song Album: Metallica
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Command: movie-this, The Departed
+""""""""""""""""""""""""""""""""""""""""
+Movie Title: The Departed
+Release Year: 2006
+Movie Rating: 8.5
+Rotten Tomatoes Rating: 91%
+Produced in: USA, Hong Kong
+Language(s): English, Cantonese
+Movie Plot: An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+Actors: Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Command: movie-this, The Departed
+""""""""""""""""""""""""""""""""""""""""
+Movie Title: The Departed
+Release Year: 2006
+Movie Rating: 8.5
+Rotten Tomatoes Rating: 91%
+Produced in: USA, Hong Kong
+Language(s): English, Cantonese
+Movie Plot: An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+Actors: Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Movie Title: Mr. Nobody
+Release Year: 2013
+Movie Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Produced in: Belgium, Germany, Canada, France, USA, UK
+Language(s): English, Mohawk
+Movie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""
+Command: movie-this, undefined
+""""""""""""""""""""""""""""""""""""""""
+Command: spotify-this-song, undefined
+""""""""""""""""""""""""""""""""""""""""
+Artist(s):  Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=12e3018fd12f49aeae52f5267878f9af
+Song Album: The Sign (US Album) [Remastered]
+""""""""""""""""""""""""""""""""""""""""
